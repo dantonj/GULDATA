@@ -3,7 +3,7 @@ A Financial Tracking Tool, built in phases for small businesses in South West Fl
 
 ## Phases
 
-1. Excel dashboard 
+1. [Excel dashboard](Phase1_Excel/)
 2. Python automation
 3. SQL database
 4. Forecasting
