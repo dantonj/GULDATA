@@ -1,0 +1,58 @@
+# Phase 1 – Excel Financial Dashboard
+
+## Overview
+
+Phase 1 focuses on building an Excel-based financial dashboard that helps small businesses organize and understand their financial activity.
+
+The workbook takes transaction data and turns it into financial summaries, KPIs, and charts. It serves as the first version and establishes the calculations and reporting structure that will eventually be developed further with Python and other technologies.
+
+## Objectives
+
+- Create a simple way to organize business transactions.
+- Calculate important financial metrics.
+- Summarize revenue and expenses by month and category.
+- Display financial information through charts and KPI cards.
+- Build a reusable template that can be adapted to different businesses.
+
+## Workbook Structure
+
+The workbook contains five main worksheets:
+
+|            Worksheet         |                      Purpose                          |
+| ---------------------------- | ----------------------------------------------------- |
+| START HERE                   | Provides instructions for using the workbook.         |
+| Dashboard                    | Displays key financial metrics and charts.            |
+| All Transactions             | Stores the business's transaction records.            |
+| KPI Page                     | Organizes important financial performance indicators. |
+| Monthly Revenue & Expenses   | Compares revenue and expenses across months.          |
+| Expense & Revenue Categories | Breaks down financial activity by category.           |
+
+## Key Features
+
+- **Financial KPIs:** Displays important metrics such as total revenue, expenses, and profit.
+- **Monthly Comparisons:** Shows how revenue and expenses change over time.
+- **Category Analysis:** Organizes transactions into revenue and expense categories.
+- **Visual Dashboard:** Uses charts and KPI cards to make financial information easier to understand.
+- **Reusable Template:** Includes blank transaction rows for future data entry.
+
+## Technologies Used
+
+- Microsoft Excel
+
+## Development
+
+This phase was built to establish a working financial reporting system before moving into more advanced programming.
+
+The main focus was organizing transaction data, developing financial calculations, and presenting the results in a clear format.
+
+## Limitations
+
+- Transaction data must be entered manually.
+- The workbook does not automatically clean or standardize imported files.
+- Transaction categories require manual assignment.
+- Analysis is limited to the calculations and visualizations built into the workbook.
+- The workbook is not designed for multiple businesses or users.
+
+## Future Development
+
+Phase 1 provides the foundation for the next stages.
